@@ -35,6 +35,7 @@ curl -s i996.me | bash -s Token
 正在开发中...
 ```
 2. 关注微信公众号“敲代码斯基”获取公网域名和访问Token
+
 ![image](https://github.com/bugfan/i996/blob/main/img/qdmsj.jpg)
 
 3. 访问公众号提供的公网地址即可访问你本地web服务【https://xxxx.i996.me -> i996公网服务器 -> 内网本地web服务】
