@@ -44,4 +44,4 @@ curl -s i996.me | bash -s Token
 
 ## 公众号截图
 
-![image](https://github.com/bugfan/i996/blob/main/img/gzh.jpeg)
+![image](https://github.com/bugfan/i996/blob/main/img/wxgzh.jpeg)
