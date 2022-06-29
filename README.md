@@ -44,7 +44,7 @@ curl -s i996.me | bash -s Token
 
 ## 客户端(终端窗口) 执行截图
 
-![image](https://github.com/bugfan/i996/blob/main/img/shx.jpeg)
+![image](https://github.com/bugfan/i996/blob/main/img/sh.jpeg)
 
 ## 公众号截图
 
