@@ -42,6 +42,10 @@ curl -s i996.me | bash -s Token
 
 <br>
 
+## 执行截图
+
+![image](https://github.com/bugfan/i996/blob/main/img/shp.png)
+
 ## 公众号截图
 
 ![image](https://github.com/bugfan/i996/blob/main/img/wxoffical.png)
