@@ -32,7 +32,7 @@ curl -s i996.me | bash -s Token
 ```
 - Windows
 ```
-正在开发中...
+curl -s win.i996.me/Token | cmd
 ```
 2. 关注微信公众号“敲代码斯基”获取公网域名和访问Token
 
