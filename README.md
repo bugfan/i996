@@ -37,7 +37,7 @@ curl -s win.i996.me/Token | cmd
 ```
 - Windows WSL/Linux
 ```
-curl -s win.i996.me/Token | cmd
+curl -s i996.me | bash -s Token
 ```
 (如果有防火墙之类的软件可能会提示失败)
 
