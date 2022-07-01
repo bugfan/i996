@@ -23,7 +23,7 @@ https://www.i996.me
 5. 域名固定(可更换刷新)
 6. http头转发设置
 7. 终端断线自动重连
-8. 全平台支持 Mac/Linux/Windows (Windows正在开发中)
+8. 全平台支持 Mac/Linux/Windows
 
 ## 🚀 Quick Start
 1. 打开一个终端窗口，将以下命令粘贴进去，替换Token参数部分，回车
