@@ -31,10 +31,16 @@ https://www.i996.me
 ```
 curl -s i996.me | bash -s Token
 ```
-- Windows(如果有防火墙之类的软件可能会提示失败)
+- Windows 自带终端
 ```
 curl -s win.i996.me/Token | cmd
 ```
+- Windows WSL/Linux
+```
+curl -s win.i996.me/Token | cmd
+```
+(如果有防火墙之类的软件可能会提示失败)
+
 2. 关注微信公众号“敲代码斯基”获取公网域名和访问Token
 
 ![image](https://github.com/bugfan/i996/blob/main/img/qdmsj.jpg)
