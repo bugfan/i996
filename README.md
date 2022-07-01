@@ -49,4 +49,4 @@ curl -s win.i996.me/Token | cmd
 
 ## 公众号截图
 
-![image](https://github.com/bugfan/i996/blob/main/img/wxoffical.png)
+![image](https://github.com/bugfan/i996/blob/main/img/gzh.jpg)
