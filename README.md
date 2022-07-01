@@ -30,7 +30,7 @@ https://www.i996.me
 ```
 curl -s i996.me | bash -s Token
 ```
-- Windows
+- Windows(如果有防火墙之类的软件可能会提示失败)
 ```
 curl -s win.i996.me/Token | cmd
 ```
