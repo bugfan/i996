@@ -43,9 +43,13 @@ curl -s win.i996.me/Token | cmd
 
 <br>
 
-## 客户端(终端窗口) 执行截图
+## Mac/Linux(终端窗口) 执行截图
 
 ![image](https://github.com/bugfan/i996/blob/main/img/sh.jpeg)
+
+## Windows(终端窗口) 执行截图
+
+![image](https://github.com/bugfan/i996/blob/main/img/win.jpeg)
 
 ## 公众号截图
 
