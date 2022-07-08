@@ -62,3 +62,7 @@ curl -s i996.me | bash -s Token
 ## 公众号截图
 
 ![image](https://github.com/bugfan/i996/blob/main/img/gzh.jpg)
+
+## Buy me a coffee☕️
+
+![image](https://github.com/bugfan/i996/blob/main/img/buyme.jpeg)
