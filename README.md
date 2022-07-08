@@ -65,4 +65,4 @@ curl -s i996.me | bash -s Token
 
 ## Buy me a coffee☕️
 
-![image](https://github.com/bugfan/i996/blob/main/img/buyme.jpeg)
+![image](https://github.com/bugfan/i996/blob/main/img/buy.jpeg)
