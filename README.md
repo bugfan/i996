@@ -63,6 +63,6 @@ curl -s i996.me | bash -s Token
 
 ![image](https://github.com/bugfan/i996/blob/main/img/gzh.jpg)
 
-## 如果觉得还不错请我喝杯咖啡😄 （Buy me a coffee ☕️）
+### Buy me a coffee ☕️ (如果觉得还不错请我喝杯咖啡😄)
 
 ![image](https://github.com/bugfan/i996/blob/main/img/buy.jpeg)
