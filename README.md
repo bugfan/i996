@@ -12,7 +12,7 @@ https://www.i996.me
 
 ## 主要用途
 
-内网穿透 远程办公 居家办公 web服务器发布 前后端远程联调 调试微信小程序等
+内网穿透 远程办公 居家办公 web服务对外发布 前后端远程联调 调试微信小程序等
 
 <br>
 
@@ -63,6 +63,6 @@ curl -s i996.me | bash -s Token
 
 ![image](https://github.com/bugfan/i996/blob/main/img/gzh.jpg)
 
-## Buy me a coffee ☕️ 😄
+## 如果觉得还不错请我喝杯咖啡😄 （Buy me a coffee ☕️）
 
 ![image](https://github.com/bugfan/i996/blob/main/img/buy.jpeg)
