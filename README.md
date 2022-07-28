@@ -18,6 +18,8 @@ https://www.i996.me
 
 ## ✨ Features
 
+### 内网穿透
+
 1. 支持https/h2/http(注意⚠️:tcp/udp/nas等这些东西目前暂时不考虑支持)
 2. 无需在本地机器安装客户端程序,拿来即用
 3. 支持动态变更目标地址和端口
@@ -28,6 +30,9 @@ https://www.i996.me
 8. 自定义域名
 9. cname绑定私有域名
 10. 全平台支持 Mac/Linux/Windows
+
+### 网络加速
+1. Github加速器
 
 ## 🚀 Quick Start
 1. 打开一个终端窗口，将以下命令粘贴进去，替换Token参数部分，回车
