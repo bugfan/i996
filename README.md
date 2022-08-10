@@ -39,6 +39,8 @@ https://www.i996.me
 - Mac/Linux
 ```
 curl -s i996.me | bash -s Token
+或者
+curl -s v2.i996.me | bash -s Token
 ```
 - Windows 自带终端
 ```
@@ -47,6 +49,12 @@ curl -s win.i996.me/Token | cmd
 - Windows WSL/Linux
 ```
 curl -s i996.me | bash -s Token
+或者
+curl -s v2.i996.me | bash -s Token
+```
+- Windows git-bash
+```
+curl -s v2.i996.me | bash -s Token
 ```
 (如果有防火墙之类的软件可能会提示失败)
 
