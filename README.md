@@ -52,7 +52,7 @@ curl -s i996.me | bash -s Token
 或者
 curl -s v2.i996.me | bash -s Token
 ```
-- Windows git-bash
+- Windows Git-Bash
 ```
 curl -s v2.i996.me | bash -s Token
 ```
