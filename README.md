@@ -76,7 +76,7 @@ curl -s v2.i996.me | bash -s Token
 
 ## 公众号截图
 
-![image](https://github.com/bugfan/i996/blob/main/img/gzh.jpg)
+![image](https://github.com/bugfan/i996/blob/main/img/811.jpg)
 
 ### 如果觉得还不错请我喝瓶红牛😄
 
