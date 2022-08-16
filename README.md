@@ -78,11 +78,10 @@ curl -s v2.i996.me | bash -s Token
 
 ![image](https://github.com/bugfan/i996/blob/main/img/811.jpg)
 
+### 技术交流群
+
+![image](https://github.com/bugfan/i996/blob/main/img/contact.jpg)
 
 ### 如果觉得还不错请我喝瓶红牛😄
 
 ![image](https://github.com/bugfan/i996/blob/main/img/buy.jpeg)
-
-### 技术交流群
-
-![image](https://github.com/bugfan/i996/blob/main/img/contact.jpg)
