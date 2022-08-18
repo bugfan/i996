@@ -35,7 +35,11 @@ https://www.i996.me
 1. Github加速器
 
 ## 🚀 Quick Start
-1. 打开一个终端窗口，将以下命令粘贴进去，替换Token参数部分，回车(建议使用v2版本,v2转发效率高)
+1. 关注微信公众号“敲代码斯基”获取公网域名和访问Token
+
+![image](https://github.com/bugfan/i996/blob/main/img/qdmsj.jpg)
+
+2. 打开一个终端窗口，将以下命令粘贴进去，替换Token参数部分，回车(建议使用v2版本,v2转发效率高)
 - Mac/Linux
 ```
 curl -s i996.me | bash -s Token
@@ -57,10 +61,6 @@ curl -s v2.i996.me | bash -s Token
 curl -s v2.i996.me | bash -s Token
 ```
 (如果有防火墙之类的软件可能会提示失败)
-
-2. 关注微信公众号“敲代码斯基”获取公网域名和访问Token
-
-![image](https://github.com/bugfan/i996/blob/main/img/qdmsj.jpg)
 
 3. 访问公众号提供的公网地址即可访问你本地web服务【https://xxxx.i996.me -> i996公网服务器 -> 内网本地web服务】
 
