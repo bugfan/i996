@@ -80,7 +80,7 @@ curl -s v2.i996.me | bash -s Token
 
 <!-- ### 如果觉得还不错请我喝瓶红牛😄 -->
 
-### 欢迎请我喝瓶红牛,如果您觉得[i996](https://github.com/bugfan/i996)对你有帮助,给予一定的捐助来维持i996项目的长期发展
+### 欢迎请我喝瓶红牛,如果您觉得[i996](https://github.com/bugfan/i996)对你有帮助,给予一定的捐助来维持项目和服务长期发展
 
 <img src="https://github.com/bugfan/i996/blob/main/img/wxpay3.jpeg" width="266" hight="430" alt="frp-Android-02.png"> <img src="https://github.com/bugfan/i996/blob/main/img/alipay3.jpeg" width="266" hight="430" alt="frp-Android-02.png">
 
