@@ -78,10 +78,12 @@ curl -s v2.i996.me | bash -s Token
 
 ![image](https://github.com/bugfan/i996/blob/main/img/811.jpg)
 
+<!-- ### 如果觉得还不错请我喝瓶红牛😄 -->
+
+### 如果您觉得[i996](https://github.com/bugfan/i996)对你有帮助，欢迎给予一定的捐助来维持i996项目的长期发展
+
+<img src="https://github.com/bugfan/i996/blob/main/img/buy.jpeg" width="266" alt="frp-Android-02.png"> <img src="https://github.com/bugfan/i996/blob/main/img/alipay.jpg" width="266" alt="frp-Android-02.png">
+
 ### 技术交流群
 
 ![image](https://github.com/bugfan/i996/blob/main/img/contact.jpg)
-
-### 如果觉得还不错请我喝瓶红牛😄
-
-![image](https://github.com/bugfan/i996/blob/main/img/buy.jpeg)
