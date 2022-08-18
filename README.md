@@ -20,7 +20,7 @@ https://www.i996.me
 
 ### 内网穿透
 
-1. 支持https/tcp/http3/http2/http/websocket(注意⚠️:udp暂不支持)
+1. 支持https/tcp/h2/h3/http/websocket(注意⚠️:udp暂不支持)
 2. 无需在本地机器安装客户端程序,拿来即用
 3. 支持动态变更目标地址和端口
 4. 对外提供公网域名和免费https证书
