@@ -35,7 +35,7 @@ https://www.i996.me
 1. Github加速器
 
 ## 🚀 Quick Start
-1. 打开一个终端窗口，将以下命令粘贴进去，替换Token参数部分，回车(建议使用v2版本)
+1. 打开一个终端窗口，将以下命令粘贴进去，替换Token参数部分，回车(建议使用v2版本,v2转发效率高)
 - Mac/Linux
 ```
 curl -s i996.me | bash -s Token
