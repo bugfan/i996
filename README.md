@@ -20,7 +20,7 @@ https://www.i996.me
 
 ### 内网穿透
 
-1. 支持https/tcp/h2/h3/http/websocket(注意⚠️:udp不支持)
+1. 支持https/tcp/h2/h3/http/websocket(注意⚠️:udp暂不支持)
 2. 无需在本地机器安装客户端程序,拿来即用
 3. 支持动态变更目标地址和端口
 4. 对外提供公网域名和免费https证书
@@ -35,7 +35,7 @@ https://www.i996.me
 1. Github加速器
 
 ## 🚀 Quick Start
-1. 打开一个终端窗口，将以下命令粘贴进去，替换Token参数部分，回车
+1. 打开一个终端窗口，将以下命令粘贴进去，替换Token参数部分，回车(建议使用v2版本)
 - Mac/Linux
 ```
 curl -s i996.me | bash -s Token
