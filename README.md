@@ -16,9 +16,9 @@ https://www.i996.me
 
 <br>
 
-## ✨ Features
+## ✨ 功能
 
-### 内网穿透
+#### 内网穿透
 
 1. 支持https/tcp/h2/h3/http/websocket/ssh/ftp/smtp(注意⚠️:udp暂不支持)
 2. 无需在本地机器安装客户端程序,拿来即用
@@ -31,7 +31,7 @@ https://www.i996.me
 9. cname绑定私有域名
 10. 全平台支持 Mac/Linux/Windows
 
-### 网络加速
+#### 网络加速
 1. Github加速器
 
 ## 🚀 使用步骤
