@@ -34,7 +34,7 @@ https://www.i996.me
 ### 网络加速
 1. Github加速器
 
-## 🚀 Quick Start
+## 🚀 使用步骤
 1. 关注微信公众号“敲代码斯基”获取公网域名和访问Token
 
 ![image](https://github.com/bugfan/i996/blob/main/img/qdmsj.jpg)
