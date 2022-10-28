@@ -2,7 +2,7 @@
 #
 # Description: A NAT Shell Script by sean bugfan
 # Date: 2022.7.1
-# Copyright (C) 2022 - Now  bugfan <bugfan53@gmail.com>
+# Copyright (C) 2022   bugfan <bugfan53@gmail.com>
 # URL: https://www.i996.me
 # Github: https://github.com/bugfan
 # 
