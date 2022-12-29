@@ -40,26 +40,19 @@ https://www.i996.me
 ![image](https://github.com/bugfan/i996/blob/main/img/qdmsj.jpg)
 
 2. 打开一个终端窗口，将以下命令粘贴进去，替换Token参数部分，回车(建议使用v2版本,v2转发效率高)
-- Mac/Linux
+- Mac/Linux/Windows-WSL/Windows-Git
 ```
-curl -s i996.me | bash -s Token
+curl i996.me | bash -s Token
 或者
-curl -s v2.i996.me | bash -s Token
+curl v2.i996.me | bash -s Token
 ```
 - Windows 自带终端
 ```
-curl -s win.i996.me/Token | cmd
-```
-- Windows WSL/Linux
-```
-curl -s i996.me | bash -s Token
+curl i996.me/Token | cmd
 或者
-curl -s v2.i996.me | bash -s Token
+curl v2.i996.me/Token | cmd
 ```
-- Windows Git-Bash
-```
-curl -s v2.i996.me | bash -s Token
-```
+
 (如果有防火墙之类的软件可能会提示失败)
 
 3. 访问公众号提供的公网地址即可访问你本地web服务【https://xxxx.i996.me -> i996公网服务器 -> 内网本地web服务】
