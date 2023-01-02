@@ -34,6 +34,10 @@ https://www.i996.me
 #### ~~网络加速~~ (暂时遗弃)
 1. ~~Github加速器~~
 
+#### 免费签发泛域名证书(是泛域名不仅仅是单域名)
+1. 提供http接口，以json格式返回证书
+2. 提供命令一键下载证书文件到系统
+
 ## 使用步骤 🚀
 1. 关注微信公众号“敲代码斯基”获取公网域名和访问Token
 
@@ -42,13 +46,15 @@ https://www.i996.me
 2. 打开一个终端窗口，将以下命令粘贴进去，替换Token参数部分，回车(建议使用v2版本,v2转发效率高)
 - Mac/Linux/Windows-WSL/Windows-Git
 ```
-curl i996.me | bash -s Token
+curl i996.me | bash -s Token 
+(👆等价于 curl v1.i996.me | bash -s Token)
 或者
 curl v2.i996.me | bash -s Token
 ```
 - Windows 自带终端
 ```
 curl i996.me/Token | cmd
+(👆等价于curl v1.i996.me/Token | cmd,也等价于curl win.i996.me/Token | cmd)
 或者
 curl v2.i996.me/Token | cmd
 ```
