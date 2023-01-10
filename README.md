@@ -73,9 +73,13 @@ curl v2.i996.me/Token | cmd
 
 ![image](https://github.com/bugfan/i996/blob/main/img/win.jpeg)
 
-## v2版本截图 【注意】v2命令可以在Mac/Linux/Windows(Git-Bash/wsl-linux)终端窗口内运行，暂不支持在Windows CMD内运行
+## v2版本截图 Mac/Linux/Windows(Git-Bash/wsl-linux)终端窗口内运行
 
 ![image](https://github.com/bugfan/i996/blob/main/img/v2.jpg)
+
+## v2版本 Windows-CMD截图
+
+![image](https://github.com/bugfan/i996/blob/main/img/v2-bat.jpg)
 
 ## 公众号截图
 
