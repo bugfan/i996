@@ -63,25 +63,25 @@ curl v2.i996.me/Token | cmd
 
 <br>
 
-## Mac/Linux(终端窗口) 执行截图
+## v1 Mac/Linux(终端窗口) 执行截图
 
 ![image](https://github.com/bugfan/i996/blob/main/img/sh.jpeg)
 
-## Windows(终端窗口) 执行截图
+## v1 Windows(终端窗口) 执行截图
 
 ![image](https://github.com/bugfan/i996/blob/main/img/win.jpeg)
 
-## v2版本截图 Mac/Linux/Windows(Git-Bash/wsl-linux)终端窗口内运行
+## v2 Mac/Linux/Windows(Git-Bash/wsl-linux)截图
 
 ![image](https://github.com/bugfan/i996/blob/main/img/v2.jpg)
 
-## v2版本 Windows-CMD截图
+## v2 Windows-CMD截图
 
 ![image](https://github.com/bugfan/i996/blob/main/img/v2-bat.jpg)
 
 ## 公众号截图
 
-![image](https://github.com/bugfan/i996/blob/main/img/811.jpg)
+![image](https://github.com/bugfan/i996/blob/main/img/1.13.jpg)
 
 <!-- ### 如果觉得还不错请我喝瓶红牛😄 -->
 
