@@ -63,21 +63,26 @@ curl v2.i996.me/Token | cmd
 
 <br>
 
-## v1 Mac/Linux(终端窗口) 执行截图
+## 版本一 (支持http/https)
+
+### Mac/Linux(终端窗口) 执行截图
 
 ![image](https://github.com/bugfan/i996/blob/main/img/sh.jpeg)
 
-## v1 Windows(终端窗口) 执行截图
+### Windows(终端窗口) 执行截图
 
 ![image](https://github.com/bugfan/i996/blob/main/img/win.jpeg)
 
-## v2 Mac/Linux/Windows(Git-Bash/wsl-linux)截图
+## 版本二 (支持tcp/ftp/rdp/ssh/stmp/http(s)/h2/h3/websocket)
+
+### Mac/Linux/Windows(Git-Bash/wsl-linux)截图
 
 ![image](https://github.com/bugfan/i996/blob/main/img/v2.jpg)
 
-## v2 Windows-CMD截图
+### Windows-CMD截图
 
 ![image](https://github.com/bugfan/i996/blob/main/img/v2-bat.jpg)
+
 
 ## 公众号截图
 
