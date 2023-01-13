@@ -63,6 +63,7 @@ curl v2.i996.me/Token | cmd
 
 <br>
 
+# 使用截图👇
 ## 版本一 (支持http/https)
 
 ### Mac/Linux(终端窗口) 执行截图
@@ -83,6 +84,7 @@ curl v2.i996.me/Token | cmd
 
 ![image](https://github.com/bugfan/i996/blob/main/img/v2-bat.jpg)
 
+<br>
 
 ## 公众号截图
 
