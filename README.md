@@ -4,7 +4,7 @@
 
 ## i996
 
-基于Shell/Bat和Golang开发的一款免费,免安装的内网穿透工具。
+基于Shell/Bat和Golang开发的一款免费,免安装的内网穿透/建议签发ssl证书工具。
 
 ## 首页地址
 
@@ -12,11 +12,11 @@ https://www.i996.me
 
 ## 主要用途
 
-内网穿透 远程办公 居家办公 web服务对外发布 前后端远程联调 调试微信小程序等
+内网穿透 签发证书 签通配证书 远程办公 居家办公 web服务对外发布 前后端远程联调 调试微信小程序等
 
 <br>
 
-## 功能 ✨
+## ✨✨ 功能 ✨✨
 
 #### 内网穿透
 
@@ -35,7 +35,7 @@ https://www.i996.me
 #### ~~网络加速~~ (暂时遗弃)
 1. ~~Github加速器~~
 
-#### 签发泛域名证书(新添功能)
+#### 签发通配证书(新添功能)
 1. 自定义待签发的域名
 2. 以文件夹方式下载证书(bash)
 3. 以http接口方式返回证书(json)
@@ -67,6 +67,22 @@ curl v2.i996.me/Token | cmd
 
 3. 访问公众号提供的公网地址即可访问你本地web服务【https://xxxx.i996.me -> i996公网服务器 -> 内网本地web服务】
 
+## 签发通配证书使用步骤 ✈️
+#### 只需两步,让你轻松拥有免费泛域名证书,下面以域名是abc.com,token是xxxx为例👇
+```
+步骤一:
+在你dns上增加一条CNAME记录,Name为_acme-challenge,Value为xxxx.abc.com
+最终需要验证的域名为_acme-challenge.abc.com
+
+步骤二:
+在终端输入这些玩意即可拿到证书
+curl https://ssl.i996.me/xxxx|bash
+或者
+curl 'https://ssl.i996.me/xxxx?type=json'
+
+【提示😊】可以把步骤二里面的命令改成用自己程序去请求;也可以配置到linux计划任务中,给nginx服务器用。
+```
+
 <br>
 
 # 使用截图👇
@@ -91,22 +107,6 @@ curl v2.i996.me/Token | cmd
 ![image](https://github.com/bugfan/i996/blob/main/img/v2-bat.jpg)
 
 <br>
-
-## 签发免费泛域名证书使用步骤 ✈️
-### 只需两步,让你轻松拥有免费泛域名证书,下面以域名是abc.com,token是xxxx为例👇
-```
-步骤一:
-在你dns上增加一条CNAME记录,Name为_acme-challenge,Value为xxxx.abc.com
-最终需要验证的域名为_acme-challenge.abc.com
-
-步骤二:
-在终端输入这些玩意即可拿到证书
-curl https://ssl.i996.me/xxxx|bash
-或者
-curl 'https://ssl.i996.me/xxxx?type=json'
-
-【提示😊】可以把步骤二里面的命令改成用自己程序去请求;也可以配置到linux计划任务中,给nginx服务器用。
-```
 
 ## 公众号截图
 
