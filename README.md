@@ -68,7 +68,7 @@ curl v2.i996.me/Token | cmd
 3. 访问公众号提供的公网地址即可访问你本地web服务【https://xxxx.i996.me -> i996公网服务器 -> 内网本地web服务】
 
 ## 签发通配证书使用步骤 ✈️
-#### 只需两步,让你轻松拥有免费泛域名证书,下面以域名是abc.com,token是xxxx为例👇
+#### 只需两步,让你轻松拥有免费泛域名证书/通配证书,下面以域名是abc.com,token是xxxx为例👇
 ```
 步骤一:
 在你dns上增加一条CNAME记录,Name为_acme-challenge,Value为xxxx.abc.com
