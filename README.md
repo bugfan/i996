@@ -114,7 +114,7 @@ curl 'https://ssl.i996.me/xxxx?type=json'
 
 <br>
 
-![image](https://github.com/bugfan/i996/blob/main/img/cert.jpg)
+![image](https://github.com/bugfan/i996/blob/main/img/cert2.jpg)
 
 <!-- ### 如果觉得还不错请我喝瓶红牛😄 -->
 
