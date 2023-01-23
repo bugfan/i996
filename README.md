@@ -4,7 +4,7 @@
 
 ## i996
 
-基于Shell/Bat和Golang开发的一款免费,免安装的内网穿透/建议签发ssl证书工具。
+基于Shell/Bat和Golang开发的一款免费,免安装的内网穿透/ssl证书签发工具。
 
 ## 首页地址
 
@@ -43,24 +43,24 @@ https://www.i996.me
 
 
 ## 内网穿透使用步骤 🚀
-1. 关注微信公众号“敲代码斯基”获取公网域名和访问Token
+1. 关注微信公众号“敲代码斯基”获取启动命令
 
 ![image](https://github.com/bugfan/i996/blob/main/img/qdmsj.jpg)
 
-2. 打开一个终端窗口，将以下命令粘贴进去，替换Token参数部分，回车(建议使用v2版本,v2转发效率高)
+2. 打开一个终端窗口，将公众号分配给你的命令粘贴进去，回车(建议使用v2版本,v2转发效率高)
 - Mac/Linux/Windows-WSL/Windows-Git
 ```
-curl i996.me | bash -s Token 
-(👆等价于 curl v1.i996.me | bash -s Token)
+curl https://i996.me | bash -s Token 
+(👆等价于 curl https://v1.i996.me | bash -s Token)
 或者
-curl v2.i996.me | bash -s Token
+curl https://v2.i996.me | bash -s Token
 ```
 - Windows 自带终端
 ```
-curl i996.me/Token | cmd
-(👆等价于curl v1.i996.me/Token | cmd,也等价于curl win.i996.me/Token | cmd)
+curl https://i996.me/Token | cmd
+(👆等价于curl https://v1.i996.me/Token | cmd,也等价于curl https://win.i996.me/Token | cmd)
 或者
-curl v2.i996.me/Token | cmd
+curl https://v2.i996.me/Token | cmd
 ```
 
 (如果有防火墙之类的软件可能会提示失败)
@@ -68,24 +68,27 @@ curl v2.i996.me/Token | cmd
 3. 访问公众号提供的公网地址即可访问你本地web服务【https://xxxx.i996.me -> i996公网服务器 -> 内网本地web服务】
 
 ## 签发通配证书使用步骤 ✈️
-#### 只需两步,让你轻松拥有免费泛域名证书/通配证书,下面以域名是abc.com,token是xxxx为例👇
+#### 只需简单三步,让你轻松拥有免费泛域名证书/通配证书,下面以域名是abc.com,token是xxxx为例👇
 ```
-步骤一:
+步骤一：
+在公众号回复acme:abc.com
+
+步骤二:
 在你dns上增加一条CNAME记录,Name为_acme-challenge,Value为xxxx.abc.com
 最终需要验证的域名为_acme-challenge.abc.com
 
-步骤二:
+步骤三:
 在终端输入这些玩意即可拿到证书
 curl https://ssl.i996.me/xxxx|bash
 或者
 curl 'https://ssl.i996.me/xxxx?type=json'
 
-【提示😊】可以把步骤二里面的命令改成用自己程序去请求;也可以配置到linux计划任务中,给nginx服务器用。
+【提示😊】可以把步骤三里面的命令改成用自己程序去请求;也可以配置到linux计划任务中,给nginx服务器用。
 ```
 
 <br>
 
-# 使用截图👇
+# 使用截图（尽量以公众号返回的命令为主，这里不一定更新及时）👇
 ## 版本一 (支持http/https)
 
 ### Mac/Linux(终端窗口) 执行截图
@@ -110,7 +113,7 @@ curl 'https://ssl.i996.me/xxxx?type=json'
 
 ## 公众号截图
 
-![image](https://github.com/bugfan/i996/blob/main/img/1.13.jpg)
+![image](https://github.com/bugfan/i996/blob/main/img/1.23.jpg)
 
 <br>
 
