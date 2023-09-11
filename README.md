@@ -134,5 +134,4 @@ curl 'https://ssl.i996.me/xxxx?type=json'
 ![image](https://github.com/bugfan/i996/blob/main/img/contact.jpg)
 
 - 技术交流二群
-
-![image](https://github.com/bugfan/i996/blob/main/img/contact2.jpg)
+<img src="https://github.com/bugfan/i996/blob/main/img/contact2.jpg" width="262" hight="465" alt="frp-Android-02.png">
