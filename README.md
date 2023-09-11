@@ -129,4 +129,10 @@ curl 'https://ssl.i996.me/xxxx?type=json'
 
 ### 技术交流群
 
+- 技术交流一群（已满）
+
 ![image](https://github.com/bugfan/i996/blob/main/img/contact.jpg)
+
+- 技术交流二群
+
+![image](https://github.com/bugfan/i996/blob/main/img/contact2.jpg)
