@@ -35,8 +35,10 @@ https://www.i996.me
 9. cname绑定私有域名
 10. cname域名以https方式加载
 11. 请求日志打印
-12. 全平台支持 Mac/Linux/Windows
-
+12. 支持国密链接访问(国密GM for SM2.SM3.SM4)
+13. 自定义Token
+14. 全平台支持 Mac/Linux/Windows
+15. 客户端 Mac/Linux/Windows/Android/iOS (详见 https://www.i996.me/#download )
 
 #### ~~网络加速~~ (暂时遗弃)
 1. ~~Github加速器~~
