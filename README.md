@@ -29,16 +29,17 @@ https://www.i996.me
 3. 支持动态变更目标地址和端口
 4. 对外提供公网域名和免费https证书
 5. 域名固定(可更换刷新)
-6. http头转发设置
-7. 终端断线自动重连
-8. 自定义域名
-9. cname绑定私有域名
-10. cname域名以https方式加载
-11. 请求日志打印
-12. 支持国密链接访问(国密GM for SM2.SM3.SM4)
-13. 自定义Token
-14. 全平台支持 Mac/Linux/Windows
-15. 客户端 Mac/Linux/Windows/Android/iOS (详见 https://www.i996.me/#download )
+6. TCP端口固定(可自行更换)
+7. http头转发设置
+8. 终端断线自动重连
+9. 自定义域名
+10. cname绑定私有域名
+11. cname域名以https方式加载
+12. 请求日志打印
+13. 支持国密链接访问(国密GM for SM2.SM3.SM4)
+14. 自定义Token
+15. 全平台支持 Mac/Linux/Windows
+16. 客户端 Mac/Linux/Windows/Android/iOS (详见 https://www.i996.me/#download )
 
 #### ~~网络加速~~ (暂时遗弃)
 1. ~~Github加速器~~
