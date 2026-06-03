@@ -9,7 +9,7 @@
 
 ## 首页地址
 
-https://www.i996.me
+https://tun.i996.me
 
 ## 主要用途
 
@@ -19,7 +19,7 @@ https://www.i996.me
 
 ## 🙇‍♀️🙇 如果你想要更稳定/更舒心的体验请使用会员版本，也算是对i996的支持
 
-想要成为会员请访问👉 [https://www.i996.me/#vip](https://www.i996.me/#/vip) ,已配置支付回调,打赏后自动成为会员用户,无需手动操做！！！
+想要成为会员请访问👉 [https://tun.i996.me/#vip](https://tun.i996.me/#/vip) ,已配置支付回调,打赏后自动成为会员用户,无需手动操做！！！
 
 ## ✨✨ 功能 ✨✨
 
@@ -40,7 +40,7 @@ https://www.i996.me
 13. 支持国密链接访问(国密GM for SM2.SM3.SM4)
 14. 自定义Token
 15. 全平台支持 Mac/Linux/Windows
-16. 客户端 Mac/Linux/Windows/Android/iOS (详见 https://www.i996.me/#download )
+16. 客户端 Mac/Linux/Windows/Android/iOS (详见 https://tun.i996.me/#download )
 
 #### ~~网络加速~~ (暂时遗弃)
 1. ~~Github加速器~~
